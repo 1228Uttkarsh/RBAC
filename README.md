@@ -25,7 +25,7 @@ This is a web application developed using the MERN stack to demonstrate **Role-B
 
 ## Setup & Installation
 
-### Clone the repository and install required dependencies in client & server.
+### Clone the repository and install required dependencies in frontend & backend.
 ![image](https://github.com/user-attachments/assets/372bb679-cde3-4999-8bbf-65321c011dbd)
 
 
