@@ -1,0 +1,16 @@
+  .card2 {
+    width: 300px;
+
+    padding: 20px;
+    background-color: #242424;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 400px;
+  }
+  .card2 button{
+    width: 80%;
+    margin: 10px;
+    
+  }
+  
+  
